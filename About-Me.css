@@ -1,0 +1,33 @@
+#poll{
+	border: solid black;
+	width: 50%;
+	margin: auto;
+	box-shadow: 5px 10px	
+}
+#link1{
+	border: 5px solid black;
+	width: 24.299%;
+	height: 30px;
+	float: left;
+	text-align: center;
+}
+#link2{
+	border: 5px solid black;
+	width: 24.299%;
+	height: 30px;
+	float: right;
+	text-align: center;
+}
+#outer{
+	border: solid black;
+	width: 50%
+	margin: auto;
+
+}
+h2 {
+    border-style: dashed;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: red;
+}
